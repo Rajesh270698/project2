@@ -1,0 +1,28 @@
+        /* Basic styling for the timetable */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        /* Styling for the table header */
+        .header {
+            background-color: #333;
+            color: white;
+        }
+
+        /* Styling for the table cells with class "event" */
+        .event {
+            background-color: #e0e0e0;
+        }
+
+        /* Add your own styles as needed */
